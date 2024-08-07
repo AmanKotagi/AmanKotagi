@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kotagi</h1>
 <h3 align="center">Electronics Enthusiast</h3>
 <h4 align="center">"Thinking, working, and achieving results are not in a straight line; they are connected in an endless circle."</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AMAN KOTAGI&label=Profile%20views&color=0e75b6&style=flat" alt="AMAN KOTAGI" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanKotagi&label=Profile%20views&color=0e75b6&style=flat" alt="AMAN KOTAGI" /> </p>
 
 <p align="left">📫 How to reach me:</p>
 <p align="left">
