@@ -39,8 +39,9 @@ I have a strong foundation in **Digital Design, RTL, STA, DFT basics**, and expo
 ---
 
 ## 🛠️ Skills  
-- **Domains:** Digital Electronics, RTL Design (Verilog), Design Verification (SystemVerilog, UVM, Assertions), DFT Basics, STA  
-- **Tools:** Cadence SimVision, Genus, Innovus, Tempus, Voltus, Vivado, Xilinx ISE  
+- **Domains:** Digital Electronics, RTL Design, Design Verification (SystemVerilog, UVM, Assertions), DFT Basics, STA
+- **Programming:** Verilog,System Verilog, C ,Perl, Python   
+- **Tools:**Vivado, Cadence Xcelium, SimVision, Genus, Innovus, Tempus, Voltus 
 - **Scripting:** Perl, Python (basic)  
 - **Soft Skills:** Debugging, documentation, analytical thinking, fast learning  
 
