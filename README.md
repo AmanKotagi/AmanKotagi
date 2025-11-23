@@ -9,7 +9,7 @@
 
 ## 🔧 About Me
 I am a VLSI Engineer with hands-on experience in **Design Verification**, gained during my internship at **Samsung Semiconductor India Research (SSIR)**.  
-My work involved building UVM environments, writing SystemVerilog testbenches, using assertions, and automating verification flows using Perl scripting.  
+My work involved building UVM environments, writing SystemVerilog testbenches, using assertions, and automating verification flows using Perl/Python  scripting.  
 I have a strong foundation in **Digital Design, RTL, STA, DFT basics**, and exposure to **synthesis and physical design tools**.
 
 ---
