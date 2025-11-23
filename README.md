@@ -1,20 +1,48 @@
 <h1 align="center">Hi 👋, I'm Aman Kotagi</h1>
-<h3 align="center">Electronics Enthusiast</h3>
-<h4 align="center">"Thinking, working, and achieving results are not in a straight line; they are connected in an endless circle."</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanKotagi&label=Profile%20views&color=0e75b6&style=flat" alt="AMAN KOTAGI" /> </p>
+<h3 align="center">VLSI Engineer</h3>
 
-<p align="left">📫 How to reach me:</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmanKotagi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🔧 About Me
+I am a VLSI Engineer with hands-on experience in **Design Verification**, gained during my internship at **Samsung Semiconductor India Research (SSIR)**.  
+My work involved building UVM environments, writing SystemVerilog testbenches, using assertions, and automating verification flows using Perl scripting.  
+I have a strong foundation in **Digital Design, RTL, STA, DFT basics**, and exposure to **synthesis and physical design tools**.
+
+---
+
+## 💼 Internship Experience
+
+### 🟦 Samsung Semiconductor India Research (SSIR) — Design Verification Intern  
+**Jan 2025 – July 2025 | Bengaluru, India**
+
+- Completed structured training in **SystemVerilog, UVM, Assertions, and Perl scripting**.  
+- Automated testcase and macro generation using Perl, improving verification efficiency.  
+- Verified **APB RAM** as part of the ramp-up project using a complete UVM testbench.  
+- Worked on **NVM controller verification**, including testbench integration and assertion-based verification.  
+- Performed **functional coverage analysis** across multiple test modes.  
+
+---
+
+## 📫 Contact Me  
 <p align="left">
   <a href="mailto:amankotagi28@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width: 30px; vertical-align: middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aman-kotagi" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"/>
   </a>
 </p>
 
+---
 
+## 🛠️ Skills  
+- **Domains:** Digital Electronics, RTL Design (Verilog), Design Verification (SystemVerilog, UVM, Assertions), DFT Basics, STA  
+- **Tools:** Cadence SimVision, Genus, Innovus, Tempus, Voltus, Vivado, Xilinx ISE  
+- **Scripting:** Perl, Python (basic)  
+- **Soft Skills:** Debugging, documentation, analytical thinking, fast learning  
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanKotagi&show_icons=true&locale=en&layout=compact" alt="AMAN KOTAGI" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanKotagi&show_icons=true&locale=en" alt="AMAN KOTAGI" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanKotagi&" alt="AMAN KOTAGI" /></p>
